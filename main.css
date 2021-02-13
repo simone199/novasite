@@ -1,0 +1,172 @@
+img{
+    position: relative;
+    right: -400px;
+    -webkit-box-shadow: 0 3px 14px 3px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 3px 14px 3px rgba(0, 0, 0, 0.5);
+    transition: all 0.4s;
+    transform: scale(1, 1);
+    
+    
+   
+}
+
+body{
+ background-color: lightslategrey;
+font-family: flegrei, sans-serif;
+font-style: normal;
+font-weight: 400;  
+}
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  right: -1000px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+
+
+
+
+
+
+
+
+h1{
+    font-style: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(146, 37, 128);
+    position: relative;
+    right: -500px;
+    
+}
+
+h2{
+position: relative;
+right: -500px;
+color: rgb(255, 255, 255);
+font-family: flegrei, sans-serif;
+font-style: normal;
+font-weight: 400;
+    
+}
+p{
+position: relative;
+right: -500px;
+color: rgb(255, 255, 255);
+font-family: flegrei, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+
+
+
+#spam{
+  position: relative;
+  right: -100px;
+  bottom: -230px;
+ 
+}
+
+
+
+iframe{
+  position: relative;
+  bottom: -400px;
+  right: -80px;
+  
+}
+
+h3{
+color: rgb(255, 255, 255);
+font-family: flegrei, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+
+#text{
+font-family: flegrei, sans-serif;
+font-style: normal;
+font-weight: 400;
+  color: rgb(255, 255, 255);
+  bottom: -200px;
+  right: -200px;
+
+}
+
+#discord{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 255, 255);
+  
+  right: -200px;
+
+}
+
+#banner{
+  position: relative;
+  right: -600px;
+  bottom: -230px;
+  top: -800px;
+ 
+}
+
+#fast{
+position: relative;
+right: -200px;
+bottom: -200px;
+font-family: flegrei, sans-serif;
+font-style: normal;
+font-weight: 400;
+color: rgb(0, 0, 0);
+ 
+ 
+}
+
+
+#jps{
+  position: relative;
+  right: -1px;
+  bottom: -200px;
+  opacity: 0.2
+  
+  
+   
+  }
+
+
+#copy{
+position: relative;
+right: -1px;
+bottom: -200px;
+font-family: railroad-gothic-atf, sans-serif;
+font-style: normal;
+font-weight: 400;
+color: rgb(255, 255, 255);
+
+  
+}
+
+
+
